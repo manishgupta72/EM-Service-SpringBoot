@@ -1,0 +1,4 @@
+Excited to share my latest project: Employee Service 🚀! Built with Java Spring Boot for a robust backend and ReactJS for a dynamic frontend, it features comprehensive CRUD operations, advanced filtering capabilities, and a sleek, user-friendly UI. Stay tuned for updates and demos! 😉![WhatsApp Image 2025-01-04 at 08 07 10_37e97f66](https://github.com/user-attachments/assets/8ed858ac-ce9a-494e-95c9-7d0100549a99)
+![WhatsApp Image 2025-01-04 at 08 08 09_1073b0fa](https://github.com/user-attachments/assets/0d935221-639f-4e8e-868e-f3ccd3a2d245)
+![WhatsApp Image 2025-01-04 at 08 09 16_12b99f49](https://github.com/user-attachments/assets/9cdc5b79-0b2b-4c6c-a335-ac4ae80506a1)
+![WhatsApp Image 2025-01-04 at 08 10 13_a9e11616](https://github.com/user-attachments/assets/87fc0427-a9d0-4ba8-bb3d-516a625e3df0)
